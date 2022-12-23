@@ -1,0 +1,14 @@
+.top{
+    text-transform: uppercase;
+    background: whitesmoke;
+    color:green;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid green;
+}
+
+.center{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
